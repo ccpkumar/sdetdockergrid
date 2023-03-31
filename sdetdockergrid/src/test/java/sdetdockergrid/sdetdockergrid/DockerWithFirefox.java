@@ -13,7 +13,7 @@ public class DockerWithFirefox {
 		DesiredCapabilities dc = new DesiredCapabilities();
 		
 		dc.setBrowserName("firefox");
-		URL url = new URL("http://localhost:4444/wd/hub");
+		URL url = new URL("http://192.168.99.100:4444/wd/hub");
 		RemoteWebDriver driver = new RemoteWebDriver(url, dc);
 		driver.get("https://opensource-demo.orangehrmlive.com/");
 		System.out.println("The tile is "+driver.getTitle());
