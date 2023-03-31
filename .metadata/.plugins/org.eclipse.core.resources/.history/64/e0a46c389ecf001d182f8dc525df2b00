@@ -1,0 +1,14 @@
+package sdetdockergrid.sdetdockergrid;
+
+import org.openqa.selenium.remote.DesiredCapabilities;
+
+public class DockerWithChrome {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		DesiredCapabilities dc = new DesiredCapabilities();
+		
+		dc.setBrowserName("chrome");
+	}
+
+}

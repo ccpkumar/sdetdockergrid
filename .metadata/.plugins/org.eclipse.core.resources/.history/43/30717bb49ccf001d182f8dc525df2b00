@@ -1,0 +1,10 @@
+package sdetdockergrid.sdetdockergrid;
+
+public class DockerWithChrome {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
