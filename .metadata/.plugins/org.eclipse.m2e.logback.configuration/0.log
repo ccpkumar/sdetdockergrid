@@ -1520,3 +1520,11 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact com.google.co
 2023-03-31 14:17:28,459 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Prasanna\eclipse\eclipse-workspace\SeleniumWS\sdetdockergrid\src\main\resources
 2023-03-31 14:17:28,461 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2023-03-31 14:17:28,461 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Prasanna\eclipse\eclipse-workspace\SeleniumWS\sdetdockergrid\src\test\resources
+2023-03-31 14:40:06,876 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-31 14:40:06,896 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Prasanna\eclipse\eclipse-workspace\SeleniumWS\sdetdockergrid\src\main\resources
+2023-03-31 14:40:06,897 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-31 14:40:06,897 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Prasanna\eclipse\eclipse-workspace\SeleniumWS\sdetdockergrid\src\test\resources
+2023-03-31 14:40:23,833 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-31 14:40:23,833 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Prasanna\eclipse\eclipse-workspace\SeleniumWS\sdetdockergrid\src\main\resources
+2023-03-31 14:40:23,834 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-31 14:40:23,834 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Prasanna\eclipse\eclipse-workspace\SeleniumWS\sdetdockergrid\src\test\resources
